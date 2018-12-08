@@ -1,2 +1,2 @@
-# Python-code-alternatives
-Alternative Python codes for similar tasks
+# Effective-Python
+Right way to write Python codes
